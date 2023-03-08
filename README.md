@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Robert Nguyen, I'm curious about software development.
 
 <!--
 **hungnh103/hungnh103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
